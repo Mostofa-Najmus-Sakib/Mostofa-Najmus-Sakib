@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mostofa-Najmus-Sakib
 - 👀 I’m interested in machine learning, deep learning. 
 - 🌱 I’m currently learning deep learning algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on misinformation in social media. 
 - 📫 How to reach me mostofanajmussak@u.boisestate.edu
 
 <!---
